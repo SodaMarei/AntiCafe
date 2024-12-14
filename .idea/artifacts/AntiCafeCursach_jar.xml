@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiCafeCursach:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiCafeCursach_jar</output-path>
+    <root id="archive" name="AntiCafeCursach.jar">
+      <element id="module-output" name="AntiCafeCursach" />
+    </root>
+  </artifact>
+</component>
